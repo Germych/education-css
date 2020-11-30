@@ -1,1 +1,1 @@
-# education-css
+# My pet project.
